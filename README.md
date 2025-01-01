@@ -1,5 +1,8 @@
 # Energy-App
 
 In the start you would need a username and password
-##Username - admin, password - password123
-##Username - user, password - pass456
+### Username - admin
+### Password - password123
+### 
+### Username - user
+### Password - pass456
